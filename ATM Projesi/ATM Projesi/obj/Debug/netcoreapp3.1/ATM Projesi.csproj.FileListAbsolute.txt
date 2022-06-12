@@ -1,0 +1,38 @@
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\ATM Projesi\ATM Projesi\ATM Projesi\bin\Debug\netcoreapp3.1\ATM Projesi.exe
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\ATM Projesi\ATM Projesi\ATM Projesi\bin\Debug\netcoreapp3.1\ATM Projesi.deps.json
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\ATM Projesi\ATM Projesi\ATM Projesi\bin\Debug\netcoreapp3.1\ATM Projesi.runtimeconfig.json
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\ATM Projesi\ATM Projesi\ATM Projesi\bin\Debug\netcoreapp3.1\ATM Projesi.runtimeconfig.dev.json
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\ATM Projesi\ATM Projesi\ATM Projesi\bin\Debug\netcoreapp3.1\ATM Projesi.dll
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\ATM Projesi\ATM Projesi\ATM Projesi\bin\Debug\netcoreapp3.1\ATM Projesi.pdb
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM Projesi.csproj.AssemblyReference.cache
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM_Projesi.Form1.resources
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM_Projesi.Form2.resources
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM Projesi.csproj.GenerateResource.cache
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM Projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM Projesi.AssemblyInfoInputs.cache
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM Projesi.AssemblyInfo.cs
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM Projesi.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM Projesi.dll
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM Projesi.pdb
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM Projesi.genruntimeconfig.cache
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM_Projesi.Form3.resources
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM_Projesi.Form4.resources
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\2.dönem 1. yarıyıl\görsel programlama\ATM Projesi\ATM Projesi\ATM Projesi\bin\Debug\netcoreapp3.1\ATM Projesi.exe
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\2.dönem 1. yarıyıl\görsel programlama\ATM Projesi\ATM Projesi\ATM Projesi\bin\Debug\netcoreapp3.1\ATM Projesi.deps.json
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\2.dönem 1. yarıyıl\görsel programlama\ATM Projesi\ATM Projesi\ATM Projesi\bin\Debug\netcoreapp3.1\ATM Projesi.runtimeconfig.json
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\2.dönem 1. yarıyıl\görsel programlama\ATM Projesi\ATM Projesi\ATM Projesi\bin\Debug\netcoreapp3.1\ATM Projesi.runtimeconfig.dev.json
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\2.dönem 1. yarıyıl\görsel programlama\ATM Projesi\ATM Projesi\ATM Projesi\bin\Debug\netcoreapp3.1\ATM Projesi.dll
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\2.dönem 1. yarıyıl\görsel programlama\ATM Projesi\ATM Projesi\ATM Projesi\bin\Debug\netcoreapp3.1\ATM Projesi.pdb
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\2.dönem 1. yarıyıl\görsel programlama\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM Projesi.csproj.AssemblyReference.cache
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\2.dönem 1. yarıyıl\görsel programlama\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM_Projesi.Form1.resources
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\2.dönem 1. yarıyıl\görsel programlama\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM_Projesi.Form2.resources
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\2.dönem 1. yarıyıl\görsel programlama\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM_Projesi.Form3.resources
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\2.dönem 1. yarıyıl\görsel programlama\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM_Projesi.Form4.resources
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\2.dönem 1. yarıyıl\görsel programlama\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM Projesi.csproj.GenerateResource.cache
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\2.dönem 1. yarıyıl\görsel programlama\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM Projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\2.dönem 1. yarıyıl\görsel programlama\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM Projesi.AssemblyInfoInputs.cache
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\2.dönem 1. yarıyıl\görsel programlama\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM Projesi.AssemblyInfo.cs
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\2.dönem 1. yarıyıl\görsel programlama\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM Projesi.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\2.dönem 1. yarıyıl\görsel programlama\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM Projesi.dll
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\2.dönem 1. yarıyıl\görsel programlama\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM Projesi.pdb
+C:\Users\MEHMET\OneDrive - Pamukkale University\Masaüstü\2.dönem 1. yarıyıl\görsel programlama\ATM Projesi\ATM Projesi\ATM Projesi\obj\Debug\netcoreapp3.1\ATM Projesi.genruntimeconfig.cache
